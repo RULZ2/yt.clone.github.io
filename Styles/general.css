@@ -1,0 +1,18 @@
+p{
+    font-family: Roboto, Arial;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+      body{
+        /* This style below will be inherited 
+        which means it will replace the default values of the code */
+            font-family: Roboto,arial;
+            margin: 0px;
+            padding-top: 80px;
+            margin-left: 96px;
+            margin-right: 24px;
+            background-color: rgb(248, 248, 248);
+            margin-bottom: 100px;
+           
+          }
